@@ -2,7 +2,7 @@
 
 # Eyes Exercise
 
-**Description:**
+## **Description:**
 This is week eight's JavaScript project to create a graphic of a set of eyes on the screen that follow the mouse movement around. This assignment uses HTML, CSS, and JavaScript. I used mapboxgl open source platform which allowed me to create and display the map; mapboxgl JavaScript library is part of the Mapbox package. It allowed me to add customizations to the map, such as the markers at specific locations that represent a bus route.
 
 **Image:**
