@@ -5,9 +5,9 @@
 ## **Description:**
 This is week eight's JavaScript project to create a graphic of a set of eyes on the screen that follow the mouse movement around. This assignment uses HTML, CSS, and JavaScript. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-## **Image:**  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+## **Image:** 
 <br>
-<img src="BusTracker.png" width='500' />
+<img src="eyes.png" width='500' />
 
 ## **How to Run the Program:**
 First install the files. To install, please download the files to your laptop.  To execute, drag index.html onto your browser's URL window.
