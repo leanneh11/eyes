@@ -3,7 +3,7 @@
 # Eyes Exercise
 
 ## **Description:**
-This is week eight's JavaScript project to create a graphic of a set of eyes on the screen that follow the mouse movement around. This assignment uses HTML, CSS, and JavaScript. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+This is week eight's JavaScript project to create a graphic of a set of eyes on the screen that follow the mouse movement around. This assignment uses HTML, CSS, and JavaScript. 
 
 ## **Image:** 
 <br>
